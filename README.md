@@ -43,7 +43,7 @@ Data wrangling
 
 -   [Overview of {glue} package](https://www.youtube.com/watch?v=vX8iWTBfGgg) by Jim Hester
 
-##### broom
+#### broom
 
 -   [The {broom} package](https://www.youtube.com/watch?v=eM3Ha0kTAz4)
 
