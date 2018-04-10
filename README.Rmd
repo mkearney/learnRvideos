@@ -51,6 +51,7 @@ A repository of useful links to videos for learning about R
 ##### broom
 
 + [The {broom} package](https://www.youtube.com/watch?v=eM3Ha0kTAz4)
+
 <!---------------------------------------------------------------------------->
 <!-------------------------- MACHINE LEARNING -------------------------------->
 <!---------------------------------------------------------------------------->
@@ -83,7 +84,6 @@ A repository of useful links to videos for learning about R
 
 #### Websites
 + [Building a new Hugo site](https://www.youtube.com/watch?v=D4voy39ewb0) by Steph Locke
-
 
 <!---------------------------------------------------------------------------->
 <!------------------------------ BIG DATA ------------------------------------>
